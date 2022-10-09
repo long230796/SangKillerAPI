@@ -12,7 +12,7 @@ Get method:  https://ipVps/data/readAll
 response:      Toàn bộ dữ liệu trong DB
 ```
 
-## Thêm dữ liệu
+## Xóa dữ liệu
 ```
 Post method:  https://ipVps/data/delete
 request:     truyền vào id vd: 
@@ -22,7 +22,7 @@ request:     truyền vào id vd:
 Response: Trả về status
 ```
 
-## Xóa dữ liệu
+## Thêm dữ liệu
 ```
 Post method:  https://ipVps/data/write
 request:     Định dạng json vd: 
