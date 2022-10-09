@@ -1,7 +1,7 @@
 ## Khởi tạo
 ```
 $ git clone https://github.com/long230796/SangKillerAPI
-$ npm init
+$ npm install
 
 Thay đổi đường dẫn mongoose.connect('mongodb://localhost:27017/express-demo') trong file index.js thành địa chỉ mongo của VPS
 $ npm run dev
